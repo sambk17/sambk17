@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sambk17
 - 👀 I’m interested in Recommender Systems
-- 🌱 I’m currently learning Java (via Duke University <-> Coursera Courses)
+- 🌱 I’m currently learning all about Java (via Duke University <-> Coursera Courses)
 - 💞️ I’m looking to collaborate on Offline / Online Evaluation Methods for Recommender Systems as well as Event Driven Recommender Systems
 - 📫 How to reach me -> @sambk on Slack
 
